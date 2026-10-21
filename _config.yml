@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "googlebcb4e00278b1ae36.html"
+    values:
+      sitemap: false
