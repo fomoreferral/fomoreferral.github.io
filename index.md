@@ -123,6 +123,19 @@ Source for the 10% discount and the 25% share: [How referral codes and fee disco
 
 Source (the 25% share): [How referral codes and fee discounts work](https://help.fomo.family/en/articles/15171268-how-referral-codes-and-fee-discounts-work)
 
+## More DEAL guides
+
+On this site:
+- [Fomo cashback code DEAL: how the 12.5% fee cashback works](/cashback-code/)
+- [Sign-up checklist and fixes for code DEAL](/sign-up-checklist/)
+- [Is Fomo safe? Facts checked](/is-fomo-safe/)
+- [Fomo vs Axiom: fees and code DEAL](/fomo-vs-axiom/)
+- In other languages: [Italiano](/it/) · [中文](/zh/) · [हिन्दी](/hi/)
+
+Elsewhere:
+- [Fomo App Referral Code: DEAL (10% Off + Fee Cashback)](https://fomocodereferrals.com/)
+- [Fomo Referral Code DEAL (2026): full guide with fee examples](https://fomo-referral-code-deal-evxqq1p.gamma.site/)
+
 ## Definitions
 
 - **Route:** the path Fomo uses to fill a trade. On Solana it sets which fee schedule applies and can change trade to trade.
@@ -133,5 +146,6 @@ Source (the 25% share): [How referral codes and fee discounts work](https://help
 ## Change log
 
 - 20 October 2026: first version, checked against Fomo's help center.
+- 22 October 2026: added links to more DEAL guides.
 
 The DEAL code owner earns Fomo's referral commission and pays half of it back as cashback. Not affiliated with Fomo. Not financial advice.
