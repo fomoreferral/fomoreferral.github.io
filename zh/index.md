@@ -32,7 +32,7 @@ Fomo 推荐码是 DEAL：创建账户前先打开邀请链接 fomo.family/r/deal
 
 1. 创建账户之前，先打开 fomo.family/r/deal。
 2. 从 App Store 或 Google Play 安装 Fomo，或直接在浏览器里打开 fomo.family。
-3. 用 Apple、Google 或邮箱注册。
+3. 用 Apple ID 或 Google 账号注册。
 4. 如果出现填写推荐码的输入框，输入 DEAL。
 5. 确认第一笔交易前，看一眼费用明细：费率应为 0.45%。在 Solana 上做很小额的交易时，可能会显示固定的最低费用。
 
