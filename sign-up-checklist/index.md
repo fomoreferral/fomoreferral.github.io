@@ -19,14 +19,14 @@ Last checked: 20 October 2026.
 | You don't have a Fomo account yet | A code is applied only when the account is created |
 | You're on the device you'll sign up on | Open the invite on that same phone or computer |
 | fomo.family/r/deal is open on that device | That link carries code DEAL |
-| You know your sign-in: Apple, Google or email | Any of the three works; there is no seed phrase |
+| You know your sign-in: an Apple ID or a Google account | Either works; there is no seed phrase |
 
 ## During sign-up
 
 | Step | What to do |
 |---|---|
 | 1 | Open fomo.family/r/deal, then install Fomo (iOS or Android) or use the web app at fomo.family |
-| 2 | Create your account with Apple, Google or email |
+| 2 | Create your account with your Apple ID or Google account |
 | 3 | If a referral or invite code field appears, enter DEAL: four letters, no spaces |
 | 4 | Finish signing up and add money (USDC on Solana, Base, BNB Chain, Monad or Ethereum; USDG on Robinhood Chain) |
 
