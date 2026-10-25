@@ -30,7 +30,7 @@ Il codice referral Fomo è DEAL: apri il link di invito fomo.family/r/deal prima
 
 1. Apri fomo.family/r/deal prima di creare l'account.
 2. Installa Fomo da App Store o Google Play, oppure usalo dal browser su fomo.family.
-3. Registrati con Apple, Google o email.
+3. Registrati con il tuo ID Apple o il tuo account Google.
 4. Se compare un campo per il codice, scrivi DEAL.
 5. Quando fai la tua prima operazione, controlla nel riepilogo che la commissione sia 0,45%. Su Solana, per operazioni molto piccole, può comparire un minimo fisso.
 
