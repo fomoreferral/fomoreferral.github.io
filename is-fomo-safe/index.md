@@ -15,7 +15,7 @@ Last checked: 20 October 2026
 | Check | What applies on Fomo | What you can do |
 |---|---|---|
 | Custody | Non-custodial wallet; no one at Fomo can move your tokens | Guard your login |
-| Sign-in | Apple ID, Google account or email; no seed phrase | Turn on two-factor login |
+| Sign-in | Apple ID or Google account; no seed phrase | Turn on two-factor login |
 | Private key | Split into shares; you can export it | Never share it |
 | Fees | Fomo's fee and the network fee show before you confirm | Read both lines |
 | Tokens | Labels and warnings; some tokens can't be sold | Check label and liquidity |
@@ -29,7 +29,7 @@ There is no undo button: a confirmed blockchain trade or transfer is final, with
 
 ## What protects your account?
 
-With no seed phrase, the Apple, Google or email account you sign in with is the real lock on your wallet. If someone takes it over, your funds are at risk.
+With no seed phrase, the Apple ID or Google account you sign in with is the real lock on your wallet. If someone takes it over, your funds are at risk.
 
 - Turn on two-factor login for that account.
 - Turn on Fomo's biometric lock, so withdrawals and key exports need Face ID, Touch ID or a fingerprint.
