@@ -21,7 +21,7 @@ permalink: /save2026/
 | Fee per standard spot trade | 0.45% (instead of 0.50%) |
 | Lasts | Every trade, for the life of the account |
 | Use it | At signup only; no field to add a code later |
-| Check it | First trade's fee line shows 0.45% (on Solana, from 190 USDC up; smaller Solana trades have a flat fee) |
+| Check it | First trade's fee line shows 0.45% (on Solana, from 190 USDC up; smaller Solana trades have their own fee steps) |
 
 ## Use it in 4 steps
 
