@@ -61,7 +61,7 @@ On Fomo, every referral code gives the same 10%. DEAL gives 10% Off + Fee Cashba
 |---|---|---|
 | Runs on | iPhone, Android and web | Web platform |
 | Spot networks | 7, from one balance | Mostly Solana (docs also mention BSC and Ethereum) |
-| Sign-up | Apple ID, Google or email; no seed phrase | Email, Google or Phantom; seed phrase |
+| Sign-up | Apple ID or Google; no seed phrase | Email, Google or Phantom; seed phrase |
 | Extras | Social feed, following, leaderboard | Limit orders, wallet tracker, X monitor, new-token feed |
 
 Fomo suits phone-first traders and anyone trading across several networks. Axiom suits experienced Solana traders on desktop who want more tools.
