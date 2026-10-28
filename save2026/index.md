@@ -43,5 +43,7 @@ plus 12.5% of your Fomo fees back in USDC from the DEAL code owner (monthly, wee
 
 DEAL: [fomo.family/r/deal](https://fomo.family/r/deal) · terms: [fomoreferralcode.app/cashback/](https://fomoreferralcode.app/cashback/)
 
+**More SAVE2026 guides:** [Fomo referral code SAVE2026: video guide](https://www.youtube.com/watch?v=X98rKWjAhrs) · [Fomo promo code SAVE2026](https://fomocodesave2026.blogspot.com/2026/10/fomo-promo-code-save2026.html) · [Fomo discount code SAVE2026](https://fomosave2026.wordpress.com/2026/10/27/fomo-discount-code-save2026/)
+
 *Not affiliated with Fomo. Code owners earn Fomo's referral commission when you sign up with their code. Fomo's own
 referral terms: [How referral codes and fee discounts work](https://help.fomo.family/en/articles/15171268-how-referral-codes-and-fee-discounts-work).*
