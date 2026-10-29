@@ -130,9 +130,10 @@ On this site:
 - [Sign-up checklist and fixes for code DEAL](/sign-up-checklist/)
 - [Is Fomo safe? Facts checked](/is-fomo-safe/)
 - [Fomo vs Axiom: fees and code DEAL](/fomo-vs-axiom/)
-- In other languages: [Italiano](/it/) · [中文](/zh/) · [हिन्दी](/hi/)
+- In other languages: [Italiano](/it/) · [中文](/zh/) · [हिन्दी](/hi/) · [Deutsch](/de/) · [Français](/fr/) · [Русский](/ru/) · [日本語](/ja/)
 
 Elsewhere:
+- [Fomo referral code DEAL app guide: fees, deposits and sign-up](https://fomoreferralcode.app/)
 - [Fomo App Referral Code: DEAL (10% Off + Fee Cashback)](https://fomocodereferrals.com/)
 - [Fomo Referral Code DEAL (2026): full guide with fee examples](https://fomo-referral-code-deal-evxqq1p.gamma.site/)
 
