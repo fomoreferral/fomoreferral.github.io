@@ -1,12 +1,12 @@
 ---
-title: "Fomo Referral Code SAVE2026 (October 2026): 10% Off Trading Fees"
-description: "Fomo referral code SAVE2026 is a verified working code (October 2026): 10% off Fomo trading fees, 0.45% instead of 0.50%. How to use it, and the only code that gives more."
+title: "Fomo Referral Code SAVE2026 (November 2026): 10% Off Trading Fees"
+description: "Fomo referral code SAVE2026 is a verified working code (November 2026): 10% off Fomo trading fees, 0.45% instead of 0.50%. How to use it, and the only code that gives more."
 permalink: /save2026/
 ---
 
-# Fomo Referral Code SAVE2026 (October 2026): 10% Off Trading Fees
+# Fomo Referral Code SAVE2026 (November 2026): 10% Off Trading Fees
 
-**SAVE2026** is a verified working Fomo referral code (October 2026). Fomo's trading fee drops from 0.50% to
+**SAVE2026** is a verified working Fomo referral code (November 2026). Fomo's trading fee drops from 0.50% to
 **0.45%** per trade.
 
 **Invite link:** [fomo.family/r/save2026](https://fomo.family/r/save2026)
@@ -16,7 +16,7 @@ permalink: /save2026/
 | | |
 |---|---|
 | Code | SAVE2026 |
-| Status | Verified working, October 2026 |
+| Status | Verified working, November 2026 |
 | Discount | 10% off Fomo trading fees |
 | Fee per standard spot trade | 0.45% (instead of 0.50%) |
 | Lasts | Every trade, for the life of the account |
