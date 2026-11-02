@@ -83,6 +83,8 @@ Sources: [Perps trading fees](https://help.fomo.family/en/articles/15453645-perp
 
 Source: [How referral codes and fee discounts work](https://help.fomo.family/en/articles/15171268-how-referral-codes-and-fee-discounts-work)
 
+Invite link or typed code, and when each one counts at sign-up: [Fomo invite code](https://fomoreferralcode.app/invite-code/).
+
 ## DEAL cashback by volume
 
 Spot trades at the standard fee; network fees not included.
