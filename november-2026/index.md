@@ -46,6 +46,8 @@ This list is redone each month. If one line fails, the page is changed before th
 - [ ] You create the account from the invite link, not some other way. The code is applied on the sign-up screen.
 - [ ] You don't plan to "add the code later". Fomo has no field for that.
 
+Where the code box appears on an iPhone, an Android phone or the web app: [Fomo app referral code](https://fomoreferralcode.app/app-referral-code/).
+
 ## Step 3: money in, first trade
 
 - [ ] You fund the account with USDC on Solana, Base, BNB Chain, Monad or Ethereum, or with USDG on Robinhood Chain. Whether card, Apple Pay or Pay with Coinbase shows up depends on where you live and on the account.
