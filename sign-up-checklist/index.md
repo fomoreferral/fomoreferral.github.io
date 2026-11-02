@@ -32,6 +32,8 @@ Last checked: 20 October 2026.
 
 Card, Apple Pay and Pay with Coinbase deposits depend on your country and account.
 
+The same steps for iPhone, Android and the web app, one by one: [Fomo app referral code guide](https://fomoreferralcode.app/app-referral-code/).
+
 ## After sign-up: did the code work?
 
 | What to look at | What you should see |
