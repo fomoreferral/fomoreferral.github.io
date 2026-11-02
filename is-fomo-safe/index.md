@@ -36,6 +36,8 @@ With no seed phrase, the Apple ID or Google account you sign in with is the real
 - Type fomo.family yourself. Scam sites use lookalike addresses.
 - Never share your private key. Fomo says it will never ask for it.
 
+A real Fomo invite link starts with fomo.family/r/ and only leads to sign-up; more in the [Fomo invite code](https://fomoreferralcode.app/invite-code/) guide.
+
 ## Will you see the fee before you confirm?
 
 Yes. The fee summary shows Fomo's fee, as a rate or as the minimum that applies, and a second line for the network fee. The standard spot fee is 0.50% per trade, or 0.45% with any referral code. Fomo pays gas on Solana only; elsewhere, network fees come on top. Watch two extras: small Solana trades have minimum fees, and some tokens carry a contract fee set by their creator. ([Trading fees on Fomo](https://help.fomo.family/en/articles/14436214-trading-fees-on-fomo))
