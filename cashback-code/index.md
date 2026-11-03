@@ -12,6 +12,8 @@ Keep two facts apart. Fomo runs no cashback program of its own; the only referra
 
 Last checked: 20 October 2026.
 
+How to get the code onto a new account: [Fomo invite code](https://fomoreferralcode.app/invite-code/).
+
 ## The formula
 
 Cashback = Fomo fee you paid × 12.5%
