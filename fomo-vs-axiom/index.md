@@ -55,6 +55,8 @@ Yes, both offer 10% off. Axiom's docs don't say how its referral discount combin
 
 On Fomo, every referral code gives the same 10%. DEAL gives 10% Off + Fee Cashback: the 10% comes from Fomo, the cashback from the DEAL code owner. It covers spot and perps fees on every Fomo network, Arc included. It is paid monthly whatever the amount, and weekly at the weekend once the unpaid balance reaches 50 USDC. Terms: [DEAL cashback terms](https://fomo-deal-cashback-mbs6j3a.gamma.site/). A code only works at sign-up, so open fomo.family/r/deal before you create the account.
 
+Step by step on iPhone and Android: [Fomo app referral code](https://fomoreferralcode.app/app-referral-code/).
+
 ## Which one fits which trader?
 
 | | Fomo | Axiom |
