@@ -85,6 +85,8 @@ Source: [How referral codes and fee discounts work](https://help.fomo.family/en/
 
 Invite link or typed code, and when each one counts at sign-up: [Fomo invite code](https://fomoreferralcode.app/invite-code/).
 
+On a phone? Step by step for iPhone and Android: [Fomo app referral code](https://fomoreferralcode.app/app-referral-code/).
+
 ## DEAL cashback by volume
 
 Spot trades at the standard fee; network fees not included.
