@@ -141,6 +141,12 @@ Elsewhere:
 - [Fomo App Referral Code: DEAL (10% Off + Fee Cashback)](https://fomocodereferrals.com/)
 - [Fomo Referral Code DEAL (2026): full guide with fee examples](https://fomo-referral-code-deal-evxqq1p.gamma.site/)
 
+Read more about Fomo referral code DEAL:
+- [Fomo App Referral Code: Where to Enter It](https://www.redsider.com/fomo-app-referral-code-guide/) (Redsider)
+- [Fomo Invite Code: The Step New Traders Should Take Before Their First Trade](https://www.bignewsnetwork.com/news/279410529/fomo-invite-code-the-step-new-traders-should-take-before-their-first-trade) (Big News Network)
+- [Fomo Referral Code: A Plain Guide for First-Time Users of the Fomo App](https://nextmag.co.uk/fomo-referral-code-a-plain-guide-for-first-time-users/) (Next Magazine)
+- [Fomo Referral Code: What One Sign-Up Step Does to Your Trading Costs](https://www.businessage.com/post/fomo-referral-code-trading-costs) (Business Age)
+
 ## Definitions
 
 - **Route:** the path Fomo uses to fill a trade. On Solana it sets which fee schedule applies and can change trade to trade.
@@ -152,5 +158,6 @@ Elsewhere:
 
 - 20 October 2026: first version, checked against Fomo's help center.
 - 22 October 2026: added links to more DEAL guides.
+- 6 November 2026: added links to articles about code DEAL.
 
 The DEAL code owner earns Fomo's referral commission and pays half of it back as cashback. Not affiliated with Fomo. Not financial advice.
